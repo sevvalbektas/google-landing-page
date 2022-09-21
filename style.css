@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-size: 14px;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.container-nav{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+}
+
+li {
+    display: inline;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.sign-btn{
+    color: white;
+    background-color: blue;
+    border-style: none;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+
+.dot-icon{
+    position: relative;
+    top: 5px;
+}
+
+.dot-icon:hover{
+    /* background-color: #cbd0d7; */
+    background-color: lightgray;
+    border-radius: 50%;
+    /* padding: 1rem; */
+    opacity: 1;
+}
+
+.container{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 70vh;
+}
+
+.google-logo{
+    padding-bottom: 1rem;
+}
+.search-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid gray;
+    width: 600px;
+    border-radius: 80px;
+    padding: 0.4rem 1rem;
+}
+
+.search-bar:hover{
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.buttons{
+    /* border: 2px solid red; */
+    line-height: 5rem;
+   
+}
+
+.buttons input{
+    padding: 0.6rem 1rem;
+    background-color: #F8F9Fa;
+    margin: 0px 0.2rem;
+    border-style: none;
+    border-radius: 4px;
+    
+}
+
+.buttons>input:hover{
+    border: 0.1px solid lightgray;
+}
+
+p a {
+    color: blue;
+}
+
+footer p{
+    position: absolute;
+    bottom: 60px;
+    margin-left: 2.3vh;
+    /* border: 2px solid gray; */
+    /* height: 30px; */
+    /* width: 100%; */
+    /* background-color: lightgray; */
+}
+
+footer div{
+    position: absolute;
+    bottom: 20px;
+    margin-left: 2vh;
+  
+
+    
+}
+
+.last{
+    position: absolute;
+    bottom: 15px;
+    right: 0;
+}
+
