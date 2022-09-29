@@ -1,3 +1,4 @@
+![google-page-ss](https://user-images.githubusercontent.com/109970150/193038488-50cd99f3-458c-4cab-a93d-1c3770dcea3e.png)
 ## Project-002 :Google Landing Page (HC-02)
 
 ## Description
@@ -5,6 +6,7 @@
 Project aims to create google landing page.
 
 ## Project Skeleton
+
 
 ## Objective
 
