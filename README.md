@@ -6,10 +6,9 @@ Project aims to create google landing page.
 
 ## Project Skeleton
 
-
 ## Objective
 
- At the end of the project, following topics are to be covered;
+#### At the end of the project, following topics are to be covered;
 
 - HTML
 
@@ -19,7 +18,7 @@ Project aims to create google landing page.
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
- At the end of the project, I will be able to;
+#### At the end of the project, I will be able to;
 
 - improve coding skills within HTML & CSS
 
