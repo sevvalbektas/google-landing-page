@@ -9,6 +9,7 @@ Project aims to create google landing page.
 
 
 ## Objective
+Building a Landing that is functionally similar to this: [Google Landing Page](http://www.google.com)
 
 #### At the end of the project, following topics are to be covered;
 
